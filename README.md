@@ -1,12 +1,26 @@
 # 🧑🏻‍💻 André Peixoto Cano
-**`Desenvolvedor Back-end`**
+**`Engenheiro de IA 🤖 | Desenvolvedor Back-end`**
 
-<p align="center">Olá, sou o André Peixoto Cano, estudante de Engenharia de software na Faculdade FIAP. Atualmente estou estudando Java, JavaScript, HTML, CSS e python.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na ampla área de tecnologia. Tenho uma grande paixão por aprender e aplicar esses novos conhecimentos para criar soluções inovadoras em projetos.
+<p align="center">Olá, sou o André Peixoto Cano, estudante de Engenharia de Software na FIAP e <b>focado em Engenharia de IA</b>. Meu objetivo é construir sistemas inteligentescomo desenvolvimento de APIs, pipelines de dados e aplicações containerizadas.
+Estudo Python e seu ecossistema de IA, desenvolvo APIs com FastAPI para servir modelos e busco me aprofundar em Langchain, MCP, LLMs e IA generativa em geral.
+Também tenho conhecimento em Java e Spring Boot, que foram minha porta de entrada no back-end, além de bancos de dados (PostgreSQL e MySQL), Git/GitHub e Docker.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na ampla área de tecnologia. Tenho uma grande paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras com inteligência artificial.
 
 English:
-<p align="center">Hello, I am André Peixoto Cano, a Software Engineering student at FIAP College. I am currently studying Java, JavaScript, HTML, CSS, and Python. I am constantly updating my knowledge and seeking new challenges in the broad field of technology. I have a great passion for learning and applying this new knowledge to create innovative solutions in projects.
-  
+<p align="center">Hello, I am André Peixoto Cano, a Software Engineering student at FIAP College and <b>focused on AI Engineering</b>. My goal is to build intelligent systems, including API development, data pipelines, and containerized applications.
+I study Python and its AI ecosystem, build APIs with FastAPI to serve models, and I am looking to go deeper into LangChain, MCP, LLMs, and generative AI in general.
+I also have knowledge of Java and Spring Boot, which were my entry point into back-end development, along with databases (PostgreSQL and MySQL), Git/GitHub, and Docker.
+I am constantly updating my knowledge and seeking new challenges in the broad field of technology. I have a great passion for learning and applying this knowledge to create innovative solutions with artificial intelligence.
+
+#
+
+## 🤖 Foco atual / Current Focus
+
+- 🧠 Engenharia de IA / AI Engineering
+- 💬 NLP e IA Generativa / NLP and Generative AI
+- 🔌 Deploy de modelos de IA em APIs com FastAPI / Deploying AI models through FastAPI APIs
+- ☕ Java e Spring Boot (conhecimento complementar) / Java and Spring Boot (complementary knowledge)
+
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
@@ -21,23 +35,25 @@ English:
 <h3 align="left">My Stacks ~</h3>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" alt="fastapi logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="25" alt="jupyter logo"  />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring boot logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
 </div>
 
 #
